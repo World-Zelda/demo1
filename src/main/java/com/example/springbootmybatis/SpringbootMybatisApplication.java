@@ -10,7 +10,7 @@ public class SpringbootMybatisApplication {
 	public static void main(String[] args) {
 		ConfigurableApplicationContext applicationContext = SpringApplication.run(SpringbootMybatisApplication.class, args);
 
-		System.out.println("hello github");
+		System.out.println("hello main");
 	}
 
 }
