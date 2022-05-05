@@ -10,6 +10,9 @@ public class SpringbootMybatisApplication {
 	public static void main(String[] args) {
 		ConfigurableApplicationContext applicationContext = SpringApplication.run(SpringbootMybatisApplication.class, args);
 
+		System.out.println("hello 132");
+		System.out.println("hello 为啥会有感叹号啊");
+		System.out.println("hello 你说是吧");
 		System.out.println("hello main");
 		System.out.println("hello main");
 		System.out.println("hello wakalanayi");
