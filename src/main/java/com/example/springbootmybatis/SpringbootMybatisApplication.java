@@ -11,6 +11,10 @@ public class SpringbootMybatisApplication {
 		ConfigurableApplicationContext applicationContext = SpringApplication.run(SpringbootMybatisApplication.class, args);
 
 		System.out.println("hello main");
+		System.out.println("hello main");
+		System.out.println("hello wakalanayi");
+
+
 	}
 
 }
